@@ -23,8 +23,14 @@
   </p>
   <p>
     💡 Impulsado por la pasión por la <b>Inteligencia Artificial</b> 🤖, actualmente expandiendo mi experiencia a través de cursos en línea dedicados y proyectos personales en <b>Ciencia de Datos</b> 📊.
+  </p>
+  <p>
+    💼 Capacidad comprobada para entregar soluciones creativas y efectivas como <b>freelancer</b>. Deseoso de contribuir a equipos dinámicos que compartan una visión de <b>innovación</b> 🚀 y <b>crecimiento profesional continuo</b> 🌱.
+  </p>
+</div>
 
-    <div align="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-ivannumpaque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ivannumpaque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -38,8 +44,3 @@
 </picture>
 
 ###
-  </p>
-  <p>
-    💼 Capacidad comprobada para entregar soluciones creativas y efectivas como <b>freelancer</b>. Deseoso de contribuir a equipos dinámicos que compartan una visión de <b>innovación</b> 🚀 y <b>crecimiento profesional continuo</b> 🌱.
-  </p>
-</div>
