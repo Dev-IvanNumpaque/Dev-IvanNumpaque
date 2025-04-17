@@ -32,8 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ivannumpaque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Mi gráfico de contribuciones (Pac-Man)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/dist/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/dist/pacman-contribution-graph.svg">
