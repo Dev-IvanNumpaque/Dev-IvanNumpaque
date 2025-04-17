@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Ejecutar cada 6 horas
+  workflow_dispatch: # Permite la ejecución manual desde la interfaz de GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v3
+        with:
+          ref: main # O la rama principal de tu repositorio
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dev-IvanNumpaque # Reemplaza con tu nombre de usuario de GitHub
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+          # Puedes personalizar la apariencia aquí (colores, tema, etc.)
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist/*'
+          commit: 'Generate snake animation'
+          branch: output # Commitear a la rama "output"
