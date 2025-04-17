@@ -24,6 +24,6 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'dist/*'
+          add: 'dist/github-contribution-grid-snake.svg'
           commit: 'Generate snake animation'
           branch: output # Commitear a la rama "output"
