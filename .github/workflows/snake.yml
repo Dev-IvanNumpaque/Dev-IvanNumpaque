@@ -21,9 +21,19 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
           # Puedes personalizar la apariencia aquí (colores, tema, etc.)
 
+      - name: Add generated file
+        run: |
+          git add dist/github-contribution-grid-snake.svg
+
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        run: |
+          git config --local user.email "Dev-IvanNumpaque@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -m "Generate snake animation"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          add: 'dist/github-contribution-grid-snake.svg'
-          commit: 'Generate snake animation'
-          branch: output # Commitear a la rama "output"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true # Puede ser necesario si la rama 'output' ya existe
