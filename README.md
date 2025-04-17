@@ -32,8 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ivannumpaque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![Animación de contribuciones de GitHub](https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/github-contribution-grid-snake.svg)
