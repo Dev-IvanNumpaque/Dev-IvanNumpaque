@@ -34,4 +34,4 @@
 
 ### Mi gráfico de contribuciones (Pac-Man)
 
-![Pac-Man Contribution Graph](https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://github.com/dev-ivannumpaque/dev-ivannumpaque/blob/output/dist/pacman-contribution-graph.svg)
