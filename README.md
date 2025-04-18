@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="90px" width="auto" alt="Coder Logo"/>
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="300px" width="auto" alt="Coder Logo"/>
   <h2>
     👋 Hi! I'm Ivan Numpaque 🚀
   </h2>
